@@ -50,3 +50,6 @@
     .nav-link:hover {
         color: rgb(24, 146, 187);
     }
+    .about{
+        background-color:aquamarine;
+    }
