@@ -3,7 +3,7 @@
     position:relative;
     top:0;
     width:100%;
-    background:rgb(37, 111, 221);
+    background:rgb(138, 172, 223);
     backdrop-filter:blur(10px);
     z-index: 1000;
     transition: all 0.3s ease;
@@ -51,5 +51,5 @@
         color: rgb(24, 146, 187);
     }
     .about{
-        background-color:aquamarine;
+        background-color:rgb(218, 199, 231);
     }
